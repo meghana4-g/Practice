@@ -2,4 +2,8 @@ git practice
 nice tool
 practice 
 changes in 3rd line
+<<<<<<< HEAD
 git is easy
+=======
+git is hard
+>>>>>>> refs/remotes/origin/main
