@@ -2,3 +2,4 @@ my hobbies
 hoby1
 hoby2
 new hobby
+new line
