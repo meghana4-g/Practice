@@ -1,1 +1,4 @@
 git prctice
+git hard to learn
+commouit reset
+
